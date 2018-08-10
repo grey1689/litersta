@@ -1,0 +1,1 @@
+Compiled from 'C:\litersta' directory
