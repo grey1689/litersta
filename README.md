@@ -7,7 +7,7 @@ Complete application code is not loaded to this repository.<br>
 <br>
 Litersta - textual analytics - software leverages statistical algorithms to programmatically locate, and extract, overall document sentiment, word frequencies, and document similarities.<br>
 <br>
-<b><font size="4">Software Abilities</font></b><br><hr>
+## Software Abilities<br>
 <br>
 <b>Similarity Scoring</b><br>
 Similarity scoring is used to locate text documents that are similar to a selected few. A small subset of documents is chosen and each document within the subset is scored based on its similarity to the documents in the population.<br>
@@ -27,7 +27,7 @@ Data stors are created and are linked to categories. A data stor may be linked t
 <b>Sentiment Analysis</b><br>
 The text from each document in a data stor category is parsed - positive and negative terms counted - and a report is generated that lists the number of positive and negative terms.<br>
 <br>
-<b><font size="4">Results</font></b><br><hr>
+## Results<br>
 <br>
 <a href="https://litersta.website/"><img src="https://litersta.website/img/Similarity_Scoring.jpg" align="left" height="30%" width="30%" ></a><br>
 <br>
