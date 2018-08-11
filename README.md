@@ -5,9 +5,5 @@ See full project here: https://litersta.com
 
 Complete application code is not loaded to this repository.<br>
 <br>
-<br>
-<br>
-<br>
-<hr>
-Similarity Scoring
-<br>
+<b>Data Stors and Categories</b><br>
+Data stors are created and are linked to categories. A data stor may be linked to multiple categories; however, a category will never be linked to multiple data stors.
