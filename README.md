@@ -26,7 +26,6 @@ Data stors are created and are linked to categories. A data stor may be linked t
 <b>Sentiment Analysis</b><br>
 The text from each document in a data stor category is parsed - positive and negative terms counted - and a report is generated that lists the number of positive and negative terms.<br>
 <br>
-<b>Results</b>
-<a href="https://litersta.website/"><img src="https://litersta.website/img/Similarity_Scoring.jpg" align="left" height="30%" width="30%" ></a><br>
-<br>
+<b>Results</b><br>
+<a href="https://litersta.website/"><img src="https://litersta.website/img/Similarity_Scoring.jpg" align="left" height="30%" width="30%" ></a>
 <a href="https://litersta.website/"><img src="https://litersta.website/img/Sentiment_Analysis.jpg" align="left" height="30%" width="30%" ></a>
