@@ -16,12 +16,13 @@ Similarity scoring is used to locate text documents that are similar to a select
 Normalization, categorization, and clustering are used when preparing text for similarity scoring and sentiment analysis.<br>
 <br>
 <b>Word Frequency</b><br>
-<br>
-The frequency feature is used to locate common words across a selected document set.<br>
+The frequency feature is used to locate common words across a selected document set. After the removal of stop words, 5000 words with the highest frequencies are collected from each document. The frequencies from each document are added, and a report that lists the sum of the frequencies is created.<br>
 <br>
 <b>Security</b><br>
-<br>
 Litersta runs locally, behind your firewall, to make sure that all data is kept safe and secure.
 <br>
 <b>Data Stors and Categories</b><br>
 Data stors are created and are linked to categories. A data stor may be linked to multiple categories; however, a category will never be linked to multiple data stors.<br>
+<br>
+<b>Sentiment Analysis</b><br>
+The text from each document in a data stor category is parsed - positive and negative terms counted - and a report is generated that lists the number of positive and negative terms.<br>
