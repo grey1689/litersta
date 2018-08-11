@@ -10,7 +10,7 @@ Litersta - textual analytics - software leverages statistical algorithms to prog
 # Software Abilities<br>
 <br>
 <b>Similarity Scoring</b><br>
-Similarity scoring is used to locate text documents that are similar to a selected few.<br>
+Similarity scoring is used to locate text documents that are similar to a selected few. A small subset of documents is chosen and each document within the subset is scored based on its similarity to the documents in the population.<br>
 <br>
 <b>Machine Learning</b><br>
 Normalization, categorization, and clustering are used when preparing text for similarity scoring and sentiment analysis.<br>
@@ -26,3 +26,9 @@ Data stors are created and are linked to categories. A data stor may be linked t
 <br>
 <b>Sentiment Analysis</b><br>
 The text from each document in a data stor category is parsed - positive and negative terms counted - and a report is generated that lists the number of positive and negative terms.<br>
+<br>
+# Results<br>
+<br>
+<a href="url"><img src="https://litersta.website/img/Similarity_Scoring.jpg" align="left" height="40%" width="40%" ></a><br>
+<br>
+<a href="url"><img src="https://litersta.website/img/Sentiment_Analysis.jpg" align="left" height="40%" width="40%" ></a>
