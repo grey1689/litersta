@@ -7,7 +7,7 @@ Complete application code is not loaded to this repository.<br>
 <br>
 Litersta - textual analytics - software leverages statistical algorithms to programmatically locate, and extract, overall document sentiment, word frequencies, and document similarities.<br>
 <br>
-<b>#Software Abilities</b><br>
+#Software Abilities<br>
 <br>
 <b>SIMILARITY SCORING</b><br>
 Similarity scoring is used to locate text documents that are similar to a selected few.<br>
