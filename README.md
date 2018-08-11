@@ -29,3 +29,4 @@ The text from each document in a data stor category is parsed - positive and neg
 <b>Results</b><br>
 <a href="https://litersta.website/"><img src="https://litersta.website/img/Similarity_Scoring.jpg" align="left" height="30%" width="30%" ></a>
 <a href="https://litersta.website/"><img src="https://litersta.website/img/Sentiment_Analysis.jpg" align="left" height="30%" width="30%" ></a>
+<a href="https://litersta.website/"><img src="https://litersta.website/img/dashboard4.jpg" align="left" height="30%" width="30%" ></a>
