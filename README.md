@@ -9,11 +9,19 @@ Litersta - textual analytics - software leverages statistical algorithms to prog
 <br>
 # Software Abilities<br>
 <br>
-<b>SIMILARITY SCORING</b><br>
+<b>Similarity Scoring</b><br>
 Similarity scoring is used to locate text documents that are similar to a selected few.<br>
 <br>
-<b>MACHINE LEARNING</b><br>
+<b>Machine Learning</b><br>
 Normalization, categorization, and clustering are used when preparing text for similarity scoring and sentiment analysis.<br>
+<br>
+<b>Word Frequency</b><br>
+<br>
+The frequency feature is used to locate common words across a selected document set.<br>
+<br>
+<b>Security</b><br>
+<br>
+Litersta runs locally, behind your firewall, to make sure that all data is kept safe and secure.
 <br>
 <b>Data Stors and Categories</b><br>
 Data stors are created and are linked to categories. A data stor may be linked to multiple categories; however, a category will never be linked to multiple data stors.<br>
